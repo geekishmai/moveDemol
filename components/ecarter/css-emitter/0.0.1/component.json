@@ -1,0 +1,21 @@
+{
+  "name": "css-emitter",
+  "description": "fire events on css transition and animation completion",
+  "version": "0.0.1",
+  "keywords": [
+    "css",
+    "emitter",
+    "events",
+    "transition",
+    "animation"
+  ],
+  "dependencies": {
+    "component/event": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "ecarter/css-emitter",
+  "resolved": "1e657c14ad0e4d866031c2c02102658a29811276"
+}
